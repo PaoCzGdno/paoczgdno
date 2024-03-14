@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+body{
+
+    background-color: #FFFFFF ;
+    background-image:
+}
+header ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: none;
+    font-family: "Lilita One", sans-serif;
+    font-size: 30px;
+    color: #004aad;
+
+}
+ .containermg{
+    image width: 50px;
+    image lenght: 50px;
+ }
+.intro
+{
+    font-family: "Lilita One", sans-serif;
+    text-align:  center;
+    font-size: 25px;
+    color: #1604a2;
+}
+
+h1{
+    font-family: "Lilita One", sans-serif;
+    font-size:x-large;
+    color: #1604a2;
+}
+.cajamensaje
+{
+    font-family: "Lilita One", sans-serif;
+    font-size: 15px;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    padding: 50px 55px;
+    box-shadow: 20px skyblue;
+    border-radius: 20px;
+    text-align: center;
+    width: 340px;
+}
+.input-group{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+h2{
+    font-family: "Lilita One", sans-serif;
+    color:#123275;
+    font-size: 35px;
+}
+label{
+    color: #1604a2(45, 37, 191);
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+input, textarea{
+    padding: 17px 25px;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    background-color: beige;
+    border:2px solid rgb(137, 181, 203); 
+    color(srgb red green blue);
+    outline: none;
+
+} 
+.btn{
+    font-size: 16px;
+    color: #FFFFFF;
+    border:0;
+    border-radius: 25px;
+    background-color: #4c21cc;
+    box-shadow: 0 0 20px; rgba(25, 254, 0, 0.4);
+    cursor: pointer;
+}
+.galeria {
+    width: 100%;
+    height: 550px;
+    display: block;
+    object-fit: cover;
+}
+.imginicio{
+    width: 960px;
+    justify-content: center;
+}
+.catalogoes, h1, {
+    font-family: "Lilita One", sans-serif;
+    color:#EC173A 
+}
+
+p{
+    font-family: "Lilita One", sans-serif;
+    color:#1604a2;
+}
+.ttnosotros{
+font-family: "Lilita One", sans-serif;
+    color:#1604a2; 
+    font-size:large;
+}
+.temp1{
+    width: 200px;
+    height: 200px;
+    image{
+        height:100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+}
+.img-fluid img-thumbnail{
+    width: 200px;
+    height: 200px;
+    
+}
+h5{
+
+}
+h6{
+    font-family: "Lilita One", sans-serif;
+    color:#1604a2; 
+    font-size: xx-large; 
+}
